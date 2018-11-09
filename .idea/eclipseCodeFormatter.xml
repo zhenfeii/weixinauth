@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatterProjectSettings">
+    <option name="projectSpecificProfile">
+      <ProjectSpecificProfile>
+        <option name="enableJSFormatting" value="true" />
+        <option name="pathToConfigFileJS" value="$USER_HOME$/Documents/Tencent Files/284874892/FileRecv/Java代码风格统一/eclipse-code-formatter.xml" />
+        <option name="pathToConfigFileJava" value="$USER_HOME$/Documents/Tencent Files/284874892/FileRecv/Java代码风格统一/eclipse-code-formatter.xml" />
+        <option name="selectedJavaProfile" value="Spring" />
+        <option name="selectedJavaScriptProfile" value="Spring" />
+      </ProjectSpecificProfile>
+    </option>
+  </component>
+</project>

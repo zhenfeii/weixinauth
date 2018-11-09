@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="weixinauth:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/weixinauth_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="weixinauth/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="weixinauth" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="jackson-annotations-2.8.0" />
+          <element id="library" level="project" name="jackson-core-2.8.10" />
+          <element id="library" level="project" name="jjwt-0.7.0" />
+          <element id="library" level="module" name="JUnit4" module-name="weixinauth" />
+          <element id="library" level="project" name="lib" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

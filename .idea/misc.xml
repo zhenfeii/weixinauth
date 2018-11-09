@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="18029e64-b416-4b73-9b70-ddfe756aa7d7" />
+      <option name="name" value="18029e64-b416-4b73-9b70-ddfe756aa7d7" />
+      <option name="url" value="http://maven.aliyun.com/nexus/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="42648615-4a7c-47c1-be45-07f9987490ac" />
+      <option name="name" value="42648615-4a7c-47c1-be45-07f9987490ac" />
+      <option name="url" value="https://maven.aliyun.com/repository/central" />
+    </remote-repository>
+  </component>
+</project>
